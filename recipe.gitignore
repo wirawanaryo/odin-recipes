@@ -1,0 +1,31 @@
+# Operating System Files
+.DS_Store
+Thumbs.db
+
+# IDE and Editor Files
+.vscode/
+.idea/
+*.sublime-workspace
+*.swp
+*.bak
+*.swo
+
+# Build and Dependency Directories (if applicable, e.g., for JS frameworks)
+node_modules/
+dist/
+build/
+coverage/
+
+# Log Files
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment Variables
+.env
+.env.*
+
+# Temporary Files
+tmp/
+*.tmp
